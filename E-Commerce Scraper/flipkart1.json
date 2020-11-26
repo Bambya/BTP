@@ -1,0 +1,839 @@
+/* 1 */
+{
+    "_id" : ObjectId("5fbe425996264c4c099dfe64"),
+    "Printer Name" : "Anet ET4 Pro 3D Printer",
+    "Price" : "₹18,199",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "44 cm",
+    "Width" : "41 cm",
+    "Weight" : "8 kg",
+    "Warranty Summary" : "12 Months Company Warranty on Manufacturing Defects",
+    "Source" : "Flipkart"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5fbe425a96264c4c099dfe65"),
+    "Printer Name" : "WOL 3D Creality Ender Series 3D Printer",
+    "Price" : "₹19,500",
+    "Print Speed" : "80 mm/sec",
+    "Auto Calibration Present" : "No",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220*220*250 mm",
+    "Power Consumption" : "265 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "51 cm",
+    "Width" : "40 cm",
+    "Weight" : "8.6 kg",
+    "Warranty Summary" : "3 MONTHS ON MOTHERBOARD",
+    "Source" : "Flipkart"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5fbe425b96264c4c099dfe66"),
+    "Printer Name" : "FlashForge Finder 3D Printer",
+    "Price" : "₹27,500",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "48 cm",
+    "Width" : "50 cm",
+    "Weight" : "8 kg",
+    "Warranty Summary" : "12 Months Company Warranty on Manufacturing Defects",
+    "Source" : "Flipkart"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5fbe425c96264c4c099dfe67"),
+    "Printer Name" : "sparrow softtech SPR_01 3D Printer",
+    "Price" : "₹49,999",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "44 cm",
+    "Width" : "41 cm",
+    "Weight" : "15 kg",
+    "Warranty Summary" : "NA",
+    "Source" : "Flipkart"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5fbe425d96264c4c099dfe68"),
+    "Printer Name" : "Geeetech A30 3D Printer",
+    "Price" : "₹55,999",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "44 cm",
+    "Width" : "41 cm",
+    "Weight" : "7.6 g",
+    "Warranty Summary" : "12 Months Company Warranty on Manufacturing Defects",
+    "Source" : "Flipkart"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5fbe425d96264c4c099dfe69"),
+    "Printer Name" : "Creality Ender 3 Pro 3D Printer",
+    "Price" : "₹22,629",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "44 cm",
+    "Width" : "41 cm",
+    "Weight" : "8.6 kg",
+    "Warranty Summary" : "12 Months Company Warranty on Manufacturing Defects",
+    "Source" : "Flipkart"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5fbe425e96264c4c099dfe6a"),
+    "Printer Name" : "Anet Creality Ender 3 V2 with Silent Motherboard, Resume printing with Glass bed, size 220 * 220 * 250 mm 3D Printer",
+    "Price" : "₹23,499",
+    "Print Speed" : "200 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Digital Light Processing",
+    "Print Bed Type" : "Not Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "475 x 470 x 620mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.8 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "62 cm",
+    "Width" : "47 cm",
+    "Weight" : "7.8 kg",
+    "Warranty Summary" : "12 Months Company Warranty on Manufacturing Defects",
+    "Source" : "Flipkart"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5fbe425f96264c4c099dfe6b"),
+    "Printer Name" : "3D PRINTZKART 3DPZ DEX 240 3D Printer",
+    "Price" : "₹20,000",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "44 cm",
+    "Width" : "41 cm",
+    "Weight" : "12 kg",
+    "Warranty Summary" : "Electromechanical parts covered",
+    "Source" : "Flipkart"
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5fbe426096264c4c099dfe6c"),
+    "Printer Name" : "WOL3D Flashforge Finder 2.0 3D Printer",
+    "Price" : "₹33,000",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "140 cm",
+    "Width" : "140 cm",
+    "Weight" : "8 kg",
+    "Warranty Summary" : "12 Months Company Warranty on Manufacturing Defects",
+    "Source" : "Flipkart"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5fbe426196264c4c099dfe6d"),
+    "Printer Name" : "ANYCUBIC 3D Printer Photon S UV Photocuring Ultra Precision LCD Printer 3D Printer",
+    "Price" : "₹59,999",
+    "Print Speed" : "150 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Digital Light Processing",
+    "Print Bed Type" : "Not Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "34 cm",
+    "Width" : "45 cm",
+    "Weight" : "6 kg",
+    "Warranty Summary" : "NA",
+    "Source" : "Flipkart"
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5fbe426196264c4c099dfe6e"),
+    "Printer Name" : "Anet ET4 Pro 3D Printer with PLA Black Open Source Filament 3D Printer",
+    "Price" : "₹21,499",
+    "Print Speed" : "300 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Digital Light Processing",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "34 cm",
+    "Width" : "44 cm",
+    "Weight" : "12 kg",
+    "Warranty Summary" : "NA",
+    "Source" : "Flipkart"
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5fbe426296264c4c099dfe6f"),
+    "Printer Name" : "WOL3D Creality Ender 3 3D Printer",
+    "Price" : "₹19,500",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "22 cm",
+    "Width" : "22 cm",
+    "Weight" : "8 kg",
+    "Warranty Summary" : "12 Months Company Warranty on Manufacturing Defects",
+    "Source" : "Flipkart"
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5fbe426396264c4c099dfe70"),
+    "Printer Name" : "Creality CR-5 Pro 3D Printer 3D Printer",
+    "Price" : "₹1,04,999",
+    "Print Speed" : "80 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Digital Light Processing",
+    "Print Bed Type" : "Not Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "48 cm",
+    "Width" : "53 cm",
+    "Weight" : "12 kg",
+    "Warranty Summary" : "NA",
+    "Source" : "Flipkart"
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5fbe426496264c4c099dfe71"),
+    "Printer Name" : "Creality Ender 5 3D Printer",
+    "Price" : "₹36,999",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "44 cm",
+    "Width" : "41 cm",
+    "Weight" : "12 kg",
+    "Warranty Summary" : "NA",
+    "Source" : "Flipkart"
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5fbe426596264c4c099dfe72"),
+    "Printer Name" : "Anet ET5 Pro FDM 3D Printer Silent Version with TMC 2208 | 300 * 300 * 400 Large Printing Size 3D Printer",
+    "Price" : "₹52,999",
+    "Print Speed" : "150 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Digital Light Processing",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "330 cm",
+    "Width" : "30 cm",
+    "Weight" : "12 kg",
+    "Warranty Summary" : "NA",
+    "Source" : "Flipkart"
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5fbe426696264c4c099dfe73"),
+    "Printer Name" : "Anet DLP N4 3D Printer",
+    "Price" : "₹34,999",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "44 cm",
+    "Width" : "41 cm",
+    "Weight" : "9500 g",
+    "Warranty Summary" : "12 Months Company Warranty on Manufacturing Defects",
+    "Source" : "Flipkart"
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("5fbe426696264c4c099dfe74"),
+    "Printer Name" : "FlashForge Adventurer 3 FDM 3D Printer - By 3D Print World 3D Printer",
+    "Price" : "₹32,000",
+    "Print Speed" : "60 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "150mm*150mm*150mm",
+    "Power Consumption" : "120 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "42 cm",
+    "Width" : "46 cm",
+    "Weight" : "51 kg",
+    "Warranty Summary" : "The Manufacturer's warrantee, valid for 12 months from the date of purchase, includes: Any manufacturing faults, including both hardware and firmware of the machine notified within 7 days from the date of installation. This does not include the extruder set and nozzle, except notified during the time of installation, if any. No warrantee is covered during this period on warble parts such as nozzle, guide rails, touch screen etc. Warrantee will be void if: Altrations are made to the hardware or firmware of the machine. The machine is moved to other places neglecting the general transportation guidelines. The machine is opened by any other person than our technical engineers. Low and cheap quality filaments are used in the extruder set.",
+    "Source" : "Flipkart"
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("5fbe426796264c4c099dfe75"),
+    "Printer Name" : "ANYCUBIC 3D Printer Photon (Photon Zero) 3D Printer",
+    "Price" : "₹28,999",
+    "Print Speed" : "150 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Digital Light Processing",
+    "Print Bed Type" : "Not Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "29 cm",
+    "Width" : "54 cm",
+    "Weight" : "7 kg",
+    "Warranty Summary" : "NA",
+    "Source" : "Flipkart"
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("5fbe426896264c4c099dfe76"),
+    "Printer Name" : "sparrow softtech BlackPearl Mercury Imitator 1.1 (Light) 3D Printer",
+    "Price" : "₹60,000",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "44 cm",
+    "Width" : "41 cm",
+    "Weight" : "15 kg",
+    "Warranty Summary" : "NA",
+    "Source" : "Flipkart"
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("5fbe426996264c4c099dfe77"),
+    "Printer Name" : "Anet ET4 Pro 3D Printer with PLA White Open Source Filament 3D Printer",
+    "Price" : "₹21,499",
+    "Print Speed" : "300 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Digital Light Processing",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "34 cm",
+    "Width" : "44 cm",
+    "Weight" : "12 kg",
+    "Warranty Summary" : "NA",
+    "Source" : "Flipkart"
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("5fbe426996264c4c099dfe78"),
+    "Printer Name" : "WANHAO Duplicator i3 plus Mark II FDM 3D Printer - By 3D Print World 3D Printer",
+    "Price" : "₹33,750",
+    "Print Speed" : "60 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "200mm*200mm*180mm",
+    "Power Consumption" : "120 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "28 cm",
+    "Width" : "50 cm",
+    "Weight" : "50 kg",
+    "Warranty Summary" : "The Manufacturer's warrantee, valid for 12 months from the date of purchase, includes: Any manufacturing faults, including both hardware and firmware of the machine notified within 7 days from the date of installation. This does not include the extruder set and nozzle, except notified during the time of installation, if any. No warrantee is covered during this period on warble parts such as nozzle, guide rails, touch screen etc. Warrantee will be void if: Altrations are made to the hardware or firmware of the machine. The machine is moved to other places neglecting the general transportation guidelines. The machine is opened by any other person than our technical engineers. Low and cheap quality filaments are used in the extruder set.",
+    "Source" : "Flipkart"
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("5fbe426a96264c4c099dfe79"),
+    "Printer Name" : "WOL 3D Yuva 3D Printer",
+    "Price" : "₹33,000",
+    "Print Speed" : "80 mm/sec",
+    "Auto Calibration Present" : "No",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "230*230*260 mm",
+    "Power Consumption" : "220 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "26 cm",
+    "Width" : "44 cm",
+    "Weight" : "10 kg",
+    "Warranty Summary" : "ONLY ON MOTHERBOARD FOR 3 MONTHS",
+    "Source" : "Flipkart"
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("5fbe426b96264c4c099dfe7a"),
+    "Printer Name" : "Wanhao Duplicator i3 Plus 3D Printer",
+    "Price" : "₹30,000",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "5 cm",
+    "Width" : "3 cm",
+    "Weight" : "8 kg",
+    "Warranty Summary" : "12 Months Company Warranty on Manufacturing Defects",
+    "Source" : "Flipkart"
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("5fbe426b96264c4c099dfe7b"),
+    "Printer Name" : "Creality Ender 5 Plus 3D Printer",
+    "Price" : "₹55,999",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "44 cm",
+    "Width" : "41 cm",
+    "Weight" : "8 kg",
+    "Warranty Summary" : "12 Months Company Warranty on Manufacturing Defects",
+    "Source" : "Flipkart"
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("5fbe426c96264c4c099dfe7c"),
+    "Printer Name" : "Creality CR-10S Pro 3D Printer",
+    "Price" : "₹64,999",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "44 cm",
+    "Width" : "41 cm",
+    "Weight" : "12 kg",
+    "Warranty Summary" : "12 Months Company Warranty on Manufacturing Defects",
+    "Source" : "Flipkart"
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("5fbe426d96264c4c099dfe7d"),
+    "Printer Name" : "Creality CR-10S� 3D Printer",
+    "Price" : "₹56,999",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "44 cm",
+    "Width" : "41 cm",
+    "Weight" : "10.3 kg",
+    "Warranty Summary" : "12 Months Company Warranty on Manufacturing Defects",
+    "Source" : "Flipkart"
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("5fbe426d96264c4c099dfe7e"),
+    "Printer Name" : "Wanhao Duplicator 6 3D Printer",
+    "Price" : "₹74,999",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "4 cm",
+    "Width" : "4 cm",
+    "Weight" : "8 kg",
+    "Warranty Summary" : "12 Months Company Warranty on Manufacturing Defects",
+    "Source" : "Flipkart"
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("5fbe426e96264c4c099dfe7f"),
+    "Printer Name" : "3IdeaTechnology Creality Ender 3D Printer",
+    "Price" : "₹19,499",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "44 cm",
+    "Width" : "41 cm",
+    "Weight" : "9 kg",
+    "Warranty Summary" : "12 Months Company Warranty on Manufacturing Defects",
+    "Source" : "Flipkart"
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("5fbe426f96264c4c099dfe80"),
+    "Printer Name" : "3IdeaTechnology KOPYBAKE 3D Coffee Printer 3D Printer",
+    "Price" : "₹1,03,888",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Not Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "44 cm",
+    "Width" : "41 cm",
+    "Weight" : "28 kg",
+    "Warranty Summary" : "12 Months Company Warranty on Manufacturing Defects",
+    "Source" : "Flipkart"
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("5fbe427096264c4c099dfe81"),
+    "Printer Name" : "Creality Ender 3 Open Source 3D Printer with Resume Printing Function 3D Printer",
+    "Price" : "₹16,999",
+    "Print Speed" : "150 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Digital Light Processing",
+    "Print Bed Type" : "Not Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "22 cm",
+    "Width" : "22 cm",
+    "Weight" : "8 kg",
+    "Warranty Summary" : "NA",
+    "Source" : "Flipkart"
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("5fbe427196264c4c099dfe82"),
+    "Printer Name" : "SPARKSA 2000mW Laser Printer Engraver 3D Printer",
+    "Price" : "₹8,999",
+    "Print Speed" : "1.5 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Selective Laser Melting",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "No",
+    "Build Volume" : "80mm x 80mm",
+    "Power Consumption" : "220 V",
+    "Nozzle Diameter" : "5 mm",
+    "Filament Diameter" : "5 mm",
+    "Height" : "14 cm",
+    "Width" : "15 cm",
+    "Weight" : "1 kg",
+    "Warranty Summary" : "1 month domestic warranty only",
+    "Source" : "Flipkart"
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("5fbe427896264c4c099dfe83"),
+    "Printer Name" : "3idea Ender 3 3D Printer",
+    "Price" : "₹18,699",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "44 cm",
+    "Width" : "41 cm",
+    "Weight" : "9 kg",
+    "Warranty Summary" : "12 Months Company Warranty on Manufacturing Defects",
+    "Source" : "Flipkart"
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("5fbe427896264c4c099dfe84"),
+    "Printer Name" : "Anet ET4 3D Printer",
+    "Price" : "₹17,499",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "44 cm",
+    "Width" : "41 cm",
+    "Weight" : "8 kg",
+    "Warranty Summary" : "12 Months Company Warranty on Manufacturing Defects",
+    "Source" : "Flipkart"
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("5fbe427996264c4c099dfe85"),
+    "Printer Name" : "Easythreed Dora 3D Printer",
+    "Price" : "₹17,499",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "44 cm",
+    "Width" : "41 cm",
+    "Weight" : "7000 kg",
+    "Warranty Summary" : "12 Months Company Warranty on Manufacturing Defects",
+    "Source" : "Flipkart"
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("5fbe427a96264c4c099dfe86"),
+    "Printer Name" : "lukia Heat Press 5 in 1 3D Printer",
+    "Price" : "₹16,000",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "44 cm",
+    "Width" : "41 cm",
+    "Weight" : "20 kg",
+    "Warranty Summary" : "NA",
+    "Source" : "Flipkart"
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("5fbe427a96264c4c099dfe87"),
+    "Printer Name" : "Creality LD-002R 3D Printer",
+    "Price" : "₹39,999",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "44 cm",
+    "Width" : "41 cm",
+    "Weight" : "2 kg",
+    "Warranty Summary" : "12 Months Company Warranty on Manufacturing Defects",
+    "Source" : "Flipkart"
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("5fbe427b96264c4c099dfe88"),
+    "Printer Name" : "Geeetech A20M 3D Printer",
+    "Price" : "₹39,999",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "44 cm",
+    "Width" : "41 cm",
+    "Weight" : "7.6 g",
+    "Warranty Summary" : "12 Months Company Warranty on Manufacturing Defects",
+    "Source" : "Flipkart"
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("5fbe427c96264c4c099dfe89"),
+    "Printer Name" : "Sparkmaker High-resolution One-key Printing 1st Version Mini Desktop Resin Sla 3D Printer 3D Printer",
+    "Price" : "₹39,999",
+    "Print Speed" : "12 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Digital Light Processing",
+    "Print Bed Type" : "Not Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "28 cm",
+    "Width" : "18 cm",
+    "Weight" : "2 kg",
+    "Warranty Summary" : "NA",
+    "Source" : "Flipkart"
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("5fbe427d96264c4c099dfe8a"),
+    "Printer Name" : "3IdeaTechnology Sparkmaker FHD 3D Printer",
+    "Price" : "₹29,999",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "44 cm",
+    "Width" : "41 cm",
+    "Weight" : "2.2 g",
+    "Warranty Summary" : "12 Months Company Warranty on Manufacturing Defects",
+    "Source" : "Flipkart"
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("5fbe427d96264c4c099dfe8b"),
+    "Printer Name" : "WANHAO Duplicator i3 3D Printer",
+    "Price" : "₹34,999",
+    "Print Speed" : "180 mm/sec",
+    "Auto Calibration Present" : "Yes",
+    "Printing Technology" : "Fused Deposition Modeling",
+    "Print Bed Type" : "Not Heated",
+    "SD Card Support" : "Yes",
+    "Build Volume" : "220X220X250mm",
+    "Power Consumption" : "240 V",
+    "Nozzle Diameter" : "0.4 mm",
+    "Filament Diameter" : "1.75 mm",
+    "Height" : "2 cm",
+    "Width" : "1 cm",
+    "Weight" : "8 kg",
+    "Warranty Summary" : "12 Months Company Warranty on Manufacturing Defects",
+    "Source" : "Flipkart"
+}
